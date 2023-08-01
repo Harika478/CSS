@@ -1,4 +1,17 @@
-.bhari{
+.internal{
 	border: 2px  dashed red;
 	background-color: pink;
+}
+
+p, span{
+	color: red;
+	font-size: 30px;
+}
+
+*{
+	font-family: italic;
+	background-color: blue;
+	margin: 0px;
+	padding: 0px;
+
 }

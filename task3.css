@@ -1,0 +1,37 @@
+ .main{
+    margin-left: 350px
+}
+
+.bg-con{
+    padding-left: 30px;
+    padding-right: 60px;
+    padding-top: 60px;
+    background-color: #e6e6e6;
+    background-color: auto;
+    height: 450vh;
+    width: 50vw;
+    margin: left 500px;
+}
+
+.a{
+	margin-right: 30px;
+}
+
+
+
+.hari{
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 0px;
+    background-color: grey;
+    }
+
+.ip{
+    position: absolute;
+    right: 60px;
+    width: 300px;
+    height: 150px;
+}
+
+
